@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm @raphaelspies!
 - I'm a Full Stack Software Engineer, Project Manager, and avid rock climber! I am passionate about learning new skills and technologies, coding, and my two cats. My ideal weekend is either backpacking or rock climbing in the Sierra Mountains.
 - I am actively seeking full-time employment as a Software Engineer
-- [https://www.linkedin.com/in/raphael-spies/]( Visit my LinkedIn Profile)
+- [Visit my LinkedIn Profile] (https://www.linkedin.com/in/raphael-spies/)
 
 <!--
 **raphaelspies/raphaelspies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
