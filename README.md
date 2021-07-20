@@ -5,8 +5,8 @@
 - [Visit my LinkedIn Profile](https://www.linkedin.com/in/raphael-spies/)
 
 # Technologies & Tools
-`Front-End:` Javascript, HTML5, CSS3, React.js, Redux, Axios, jQuery, Styled-Components, Material-UI, Webpack, Parcel
-`Back-End:` MySQL, PostgreSQL, MongoDB, Knex, Docker, Node.js, Express, AWS, NGINX
+`Front-End:` Javascript, HTML5, CSS3, React.js, Redux, Axios, jQuery, Styled-Components, Material-UI, Webpack, Parcel <br/>
+`Back-End:` MySQL, PostgreSQL, MongoDB, Knex, Docker, Node.js, Express, AWS, NGINX <br/>
 
 <!--
 **raphaelspies/raphaelspies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
