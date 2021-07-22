@@ -12,6 +12,8 @@
 <img src='https://img.shields.io/badge/-reactJS-blue?logo=react&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-redux-purple?logo=redux&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-reactrouter-black?logo=reactrouter&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-axios-yellow?logo=axios&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-jquery-blue?logo=jquery&style=for-the-badge'/>
 
 `Back-End:` MySQL, PostgreSQL, MongoDB, Knex, Docker, Node.js, Express, AWS, NGINX <br/>
 
