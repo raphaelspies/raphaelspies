@@ -12,7 +12,7 @@
 <img src='https://img.shields.io/badge/-reactJS-blue?logo=react&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-redux-purple?logo=redux&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-react&nbsp;router-black?logo=reactrouter&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-axios-yellow?logo=axios&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-axios-orange?logo=axios&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-jquery-blue?logo=jquery&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-styled&nbsp;components-white?logo=styledcomponents&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-materialui-0081CB?logo=materialui&style=for-the-badge'/>
@@ -27,7 +27,7 @@
 <img src='https://img.shields.io/badge/-mongodb-darkgreen?logo=mongodb&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-knex-orange?logo=knex&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-docker-darkblue?logo=docker&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-node.js-yellow?logo=nodejs&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-node.js-green?logo=nodejs&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-express-darkblue?logo=express&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-amazon&nbsp;aws-232F3E?logo=amazonaws&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-NGINX-009639?logo=NGINX&style=for-the-badge'/>
