@@ -17,10 +17,12 @@
 <img src='https://img.shields.io/badge/-styledcomponents-white?logo=styledcomponents&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-materialui-0081CB?logo=materialui&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-webpack-navy?logo=webpack&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-Parcel-navy?logo=Parcel&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-Parcel-orange?logo=Parcel&style=for-the-badge'/>
 
 
 `Back-End:` MySQL, PostgreSQL, MongoDB, Knex, Docker, Node.js, Express, AWS, NGINX <br/>
+<img src='https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&style=for-the-badge'/>
+
 
 <!--
 **raphaelspies/raphaelspies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
