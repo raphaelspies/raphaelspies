@@ -6,6 +6,7 @@
 
 # Technologies & Tools
 `Front-End:` Javascript, HTML5, CSS3, React.js, Redux, Axios, jQuery, Styled-Components, Material-UI, Webpack, Parcel <br/>
+(https://img.shields.io/badge/-reactJS-lightblue?logo=react)
 `Back-End:` MySQL, PostgreSQL, MongoDB, Knex, Docker, Node.js, Express, AWS, NGINX <br/>
 
 <!--
@@ -22,5 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/raphaelspies)
