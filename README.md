@@ -6,7 +6,7 @@
 
 # Technologies & Tools
 `Front-End:` <br/>
-<img src='https://img.shields.io/badge/-javascript-yellow?logo=javascript&style=for-the-badge&logoColor=black'/>
+<alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src='https://img.shields.io/badge/-html5-orange?logo=html5&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-css3-darkblue?logo=css3&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-reactJS-blue?logo=react&style=for-the-badge'/>
