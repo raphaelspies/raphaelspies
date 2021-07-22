@@ -23,7 +23,7 @@
 `Back-End:` MySQL, PostgreSQL, MongoDB, Knex, Docker, Node.js, Express, AWS, NGINX <br/>
 <img src='https://img.shields.io/badge/-MySQL-white?logo=MySQL&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-postgresql-gray?logo=postgresql&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-mongodb-47A248?logo=mongodb&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-mongodb-darkgreen?logo=mongodb&style=for-the-badge'/>
 
 
 <!--
