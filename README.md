@@ -25,7 +25,7 @@
 <img src='https://img.shields.io/badge/-postgresql-lightgray?logo=postgresql&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-mongodb-darkgreen?logo=mongodb&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-knex-orange?logo=knex&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-docker-2496ED?logo=docker&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-docker-darkblue?logo=docker&style=for-the-badge'/>
 
 
 <!--
