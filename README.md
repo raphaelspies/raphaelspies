@@ -26,7 +26,7 @@
 <img src='https://img.shields.io/badge/-mongodb-darkgreen?logo=mongodb&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-knex-orange?logo=knex&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-docker-darkblue?logo=docker&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-node-339933?logo=node&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-node.js-339933?logo=nodejs&style=for-the-badge'/>
 
 <!--
 **raphaelspies/raphaelspies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
