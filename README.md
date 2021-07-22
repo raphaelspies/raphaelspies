@@ -5,9 +5,13 @@
 - [Visit my LinkedIn Profile](https://www.linkedin.com/in/raphael-spies/)
 
 # Technologies & Tools
-`Front-End:` Javascript, HTML5, CSS3, React.js, Redux, Axios, jQuery, Styled-Components, Material-UI, Webpack, Parcel <br/>
+`Front-End:` Javascript, HTML5, CSS3, React.js, Redux, React-Router, Axios, jQuery, Styled-Components, Material-UI, Webpack, Parcel <br/>
 <img src='https://img.shields.io/badge/-javascript-yellow?logo=javascript&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-html5-orange?logo=html5&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-css3-darkblue?logo=css3&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-reactJS-blue?logo=react&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-redux-purple?logo=redux&style=for-the-badge'/>
+
 `Back-End:` MySQL, PostgreSQL, MongoDB, Knex, Docker, Node.js, Express, AWS, NGINX <br/>
 
 <!--
