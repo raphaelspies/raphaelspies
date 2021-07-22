@@ -6,7 +6,7 @@
 
 # Technologies & Tools
 `Front-End:` Javascript, HTML5, CSS3, React.js, Redux, Axios, jQuery, Styled-Components, Material-UI, Webpack, Parcel <br/>
-[https://img.shields.io/badge/-reactJS-lightblue?logo=react]
+![https://img.shields.io/badge/-reactJS-lightblue?logo=react]
 `Back-End:` MySQL, PostgreSQL, MongoDB, Knex, Docker, Node.js, Express, AWS, NGINX <br/>
 
 <!--
