@@ -17,6 +17,7 @@
 <img src='https://img.shields.io/badge/-styled&nbsp;components-white?logo=styledcomponents&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-materialui-0081CB?logo=materialui&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-webpack-navy?logo=webpack&style=for-the-badge'/>
+<img src="https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black" />
 <img src='https://img.shields.io/badge/-Parcel-orange?logo=Parcel&style=for-the-badge'/>
 
 
