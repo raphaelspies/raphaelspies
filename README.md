@@ -11,7 +11,7 @@
 <img src='https://img.shields.io/badge/-css3-darkblue?logo=css3&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-reactJS-blue?logo=react&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-redux-purple?logo=redux&style=for-the-badge'/>
-<img src='https://img.shields.io/badge/-reactrouter-black?logo=reactrouter&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-react&nbsp;router-black?logo=reactrouter&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-axios-yellow?logo=axios&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-jquery-blue?logo=jquery&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-styled&nbsp;components-white?logo=styledcomponents&style=for-the-badge'/>
