@@ -1,6 +1,6 @@
 # About Me
 ### Hi there 👋, I'm @raphaelspies!
-- I'm a Full Stack Software Engineer and avid rock climber! I am passionate about learning new skills and technologies, coding, and my two cats. My ideal weekend is either backpacking or rock climbing in the Sierra Mountains.
+- I'm a Full Stack Software Engineer and avid rock climber! I am passionate about learning new skills and technologies, coding, and my two cats. My ideal weekend is either backpacking or rock climbing in the Sierra Nevada Mountains.
 - I am actively seeking full-time employment as a Software Engineer
 - [Visit my LinkedIn Profile](https://www.linkedin.com/in/raphael-spies/)
 
